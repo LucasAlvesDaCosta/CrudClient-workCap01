@@ -1,0 +1,11 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Madara Uchira', '245679023-80', 120.000, TIMESTAMP WITH TIME ZONE '1789-12-24T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sasuke Uchira', '155579023-70', 20.000, TIMESTAMP WITH TIME ZONE '1996-06-23T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Naruto Uzumaki','665679023-80', 100.000, TIMESTAMP WITH TIME ZONE '1996-10-10T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Obito Uchira', '124333023-80', 10.000, TIMESTAMP WITH TIME ZONE '1986-02-10T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Kakashi Hatake', '1257679023-90', 10.000, TIMESTAMP WITH TIME ZONE '1986-09-15T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tanjiro Kamado', '7775679023-80', 5.000, TIMESTAMP WITH TIME ZONE '1998-07-14T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Zenitsu Agatsuma', '7775679023-30', 120.000, TIMESTAMP WITH TIME ZONE '1998-09-03T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Goku Kakarotto', '9775679023-20', 130.000, TIMESTAMP WITH TIME ZONE '1736-12-24T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Satoru Gojo', '0988679023-50', 110.000, TIMESTAMP WITH TIME ZONE '1989-12-07T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Kyojuro Rengoku', '0988679023-50', 15.000, TIMESTAMP WITH TIME ZONE '1995-12-07T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Monkey D. Luffy', '0778679023-10', 7.000, TIMESTAMP WITH TIME ZONE '2002-05-05T20:50:07.12345Z', 0);
